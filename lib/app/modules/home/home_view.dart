@@ -69,7 +69,7 @@ class HomeView extends GetView<HomeController> {
             () => FloatingActionButton(
               onPressed: () {
                 Get.to(
-                  () => const AddDialog(),
+                  () => AddDialog(),
                   transition: Transition.downToUp,
                 );
               },
