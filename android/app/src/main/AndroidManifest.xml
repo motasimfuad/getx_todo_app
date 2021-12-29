@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.getx_todo_app">
    <application
-        android:label="getx_todo_app"
+        android:label="Getx Todo App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
